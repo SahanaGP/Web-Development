@@ -1,0 +1,55 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+#nav {
+    background-color: blanchedalmond;
+}
+
+.navbar {
+    list-style-type: none;
+}
+
+.nav-list {
+    display: inline;
+    font-size: 35px;
+}
+
+.nav-item {
+    color: blue;
+    text-decoration: none;
+    padding-right: 15px;
+    transition: 1s;
+}
+
+.nav-item:hover {
+    color: cadetblue;
+}
+
+#heading {
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkcyan;
+    background-color: black;
+}
+
+.mar {
+    color: brown;
+    font-size: 25px;
+}
+
+.img-mar {
+    border: 2px dotted black;
+}
+
+.sec,
+.para {
+    display: inline;
+    width: 25%;
+}
+
+.para {
+    display: inline;
+}
